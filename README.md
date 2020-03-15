@@ -1,2 +1,2 @@
 # flex-box
-CSS Flex Box
+CSS Flexbox
